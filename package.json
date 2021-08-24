@@ -8,5 +8,13 @@
     "start": "node ./index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.4.3",
+    "csv-parser": "^3.0.0",
+    "graphql-yoga": "^1.18.3",
+    "pg": "^8.7.1",
+    "pg-format": "^1.0.4",
+    "sqlite3": "^5.0.2"
+  }
 }
